@@ -1,0 +1,7 @@
+#Questions and Answers
+1. Write a program to print whether a number is even or odd, also take input.</br> [Solution](https://github.com/RohanSahana/KK_DSA_Java_Bootcamp/blob/main/Assignments/02-first-java/Solution%20Files/Ans_1.java)
+2. Take name as input and print a greeting message for that name.</br>[Solution](https://github.com/RohanSahana/KK_DSA_Java_Bootcamp/blob/main/Assignments/02-first-java/Solution%20Files/Ans_2.java)
+3. Write a program to input principle, time, and rate (P, T, R) from the user and find Simple Interest.</br>[Solution](https://github.com/RohanSahana/KK_DSA_Java_Bootcamp/blob/main/Assignments/02-first-java/Solution%20Files/Ans_3.java)
+4. Take in two numbers and an operator (+, -, *, /) and calculate the value.</br> [(Use If Conditions)](https://github.com/RohanSahana/KK_DSA_Java_Bootcamp/blob/main/Assignments/02-first-java/Solution%20Files/Ans_4.java) </br> [(Use Switch)](https://github.com/RohanSahana/KK_DSA_Java_Bootcamp/blob/main/Assignments/02-first-java/Solution%20Files/Ans_4a.java)
+5. Take 2 numbers as input and print the largest number. </br>[Solution using If](https://github.com/RohanSahana/KK_DSA_Java_Bootcamp/blob/main/Assignments/02-first-java/Solution%20Files/Ans_5.java) </br> [Solution using MATH library](https://github.com/RohanSahana/KK_DSA_Java_Bootcamp/blob/main/Assignments/02-first-java/Solution%20Files/Ans_5a.java)
+6. Input currency in rupees and output in USD.</br>[Solution](https://github.com/RohanSahana/KK_DSA_Java_Bootcamp/blob/main/Assignments/02-first-java/Solution%20Files/Ans_6.java)
