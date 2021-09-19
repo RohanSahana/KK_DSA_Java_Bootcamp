@@ -30,7 +30,7 @@ Marks        Grade
 51-60          CD 
 41-50          DD 
 <=40          Fail 
-</pre><br />
+</pre>
 **[Answer of Question 8](https://github.com/RohanSahana/KK_DSA_Java_Bootcamp/blob/main/Assignments/04_Functions/Solutions/Ans_8.java)**
 
 9. [Write a program to print the factorial of a number by defining a method named 'Factorial'.](https://www.javatpoint.com/factorial-program-in-java)
@@ -42,7 +42,7 @@ Factorial of any number n is represented by n! and is equal to 1 * 2 * 3 * .... 
 Also, 
 1! = 1 
 0! = 1
-</pre><br />
+</pre>
 **[Answer of Question 9](https://github.com/RohanSahana/KK_DSA_Java_Bootcamp/blob/main/Assignments/04_Functions/Solutions/Ans_9.java)**
 
 10. [Write a function to find if a number is a palindrome or not. Take number as parameter.](https://www.geeksforgeeks.org/check-if-a-number-is-palindrome/)<br />
