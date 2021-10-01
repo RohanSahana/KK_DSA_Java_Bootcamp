@@ -1,49 +1,32 @@
 //Define two methods to print the maximum and the minimum number respectively among three numbers entered by the user.
 
-package com.company;
-
 import java.util.Scanner;
 
-public class Ans_1 {
-    public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
-        int a = in.nextInt();
-        int b = in.nextInt();
-        int c = in.nextInt();
-        System.out.println("Max = " + max(a,b,c));
-        System.out.println("Min = " + min(a,b,c));
+public class max_min 
+{
+    public static void main(String[] args) 
+    {
+        Scanner scan = new Scanner(System.in);
+        int n1, n2, n3;
+        System.out.print("enter first num : ");
+        n1 = scan.nextInt();
+        System.out.print("enter second num : ");
+        n2 = scan.nextInt();
+        System.out.print("enter third num : ");
+        n3 = scan.nextInt();
+        scan.close();
+        max(n1,n2,n3);
+        min(n1,n2,n3);
+    }
+    
+    static void max(int n1, int n2, int n3)
+    {
+        System.out.println("the maximum is : " +Math.max(n1,  Math.max(n2, n3)));
     }
 
-    static int max(int a, int b, int c){
-        if(b>a){
-            if(b>c){
-                return b;
-            }
-            else{
-                return c;
-            }
-        }
-        else{
-            return a;
-        }
-    }
-
-    static int min(int a, int b, int c){
-        if(a<b){
-            if(a<c){
-                return a;
-            }
-            else{
-                return c;
-            }
-        }
-        else{ //b<a
-            if(b<c){
-                return b;
-            }
-            else{ //b>c
-                return c;
-            }
-        }
+    static void min(int n1, int n2, int  n3)
+    {
+        System.out.println("the minimum is : " +Math.min(n1, Math.min(n2, n3)));
     }
 }
+
